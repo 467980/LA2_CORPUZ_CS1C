@@ -4,16 +4,16 @@ let s1LastName = "Echalar";
 let s1Birthdate = "August 15, 2006";
 let s1Birthplace = "Santa Lucia Hospital, Ilocos Sur, Philippines 2737";
 let s1Address = "Barangay Poblacion Sur, Santiago, Ilocos Sur, Philippines 2707";
-let s1CourseYear = "Bachelor of Science in Computer Science"; // BSCS
+let s1CourseYear = "Bachelor of Science in Computer Science"; 
 let s1DreamJob = "Game Developer";
 
 let s2FirstName = "Jacob";
 let s2MiddleName = ""; // diko alam initial
 let s2LastName = "Polides";
 let s2Birthdate = "November 22, 2006";
-let s2Birthplace = "Bangued, Abra, Philippines 2800"; // ✅ Poblacion removed!
+let s2Birthplace = "Bangued, Abra, Philippines 2800";
 let s2Address = "Barangay San Nicolas, Candon City, Ilocos Sur, Philippines 2710";
-let s2CourseYear = "Bachelor of Science in Computer Science"; // BSCS
+let s2CourseYear = "Bachelor of Science in Computer Science";
 let s2DreamJob = "Software Engineer";
 
 
